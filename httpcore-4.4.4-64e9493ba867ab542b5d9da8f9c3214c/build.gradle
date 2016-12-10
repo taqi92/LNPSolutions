@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('httpcore-4.4.4-64e9493ba867ab542b5d9da8f9c3214c.jar'))
